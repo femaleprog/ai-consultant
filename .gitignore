@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+*.sqlite3
+
+# tooling
+*.log
+.vscode/
+.idea/
+
+# data/models (if any local cache)
+data/**
+!data/README.md
+models/**
+!models/README.md
