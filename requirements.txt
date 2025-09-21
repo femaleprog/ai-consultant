@@ -6,3 +6,5 @@ transformers
 python-dotenv
 pydantic
 requests
+openai
+python-dotenv

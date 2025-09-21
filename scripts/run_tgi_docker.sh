@@ -13,3 +13,4 @@ ARGS+=(ghcr.io/huggingface/text-generation-inference:latest \
 
 echo "Starting TGI with model: $MODEL_ID"
 "${ARGS[@]}"
+
